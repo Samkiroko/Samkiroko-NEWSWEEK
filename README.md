@@ -1,4 +1,4 @@
-** Newsweek website clone **
+# NEWSWEEK-CLONE-
 
 This project is a clone of Newsweek website, as a course work it was intend to demonstrate how to create a mobile resposive website and use of boostrap as css flamework .
 
@@ -28,3 +28,4 @@ To get a local copy up and running follow these simple example steps:
 
 - Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
 - Github: [@Samkiroko](https://github.com/samkiroko)
+
