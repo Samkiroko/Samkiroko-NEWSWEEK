@@ -27,4 +27,6 @@ To get a local copy up and running follow these simple example steps:
 👤 Samuel kiroko N
 
 - Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
-- Github: [@Samkiroko](https://github.com/samkiroko)
+- Github: [@Samkiroko](https://github.com/samkiroko
+
+> > > > > > > 389e341103f39c0da25e7c2b6e209698d76839ff
