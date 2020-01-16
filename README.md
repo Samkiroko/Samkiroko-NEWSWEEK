@@ -28,7 +28,3 @@ To get a local copy up and running follow these simple example steps:
 
 - Twitter: [@kirokonjenga](https://twitter.com/kirokonjenga)
 - Github: [@Samkiroko](https://github.com/samkiroko)
-# Samkiroko-NEWSWEEK-CLONE-
-# Samkiroko-NEWSWEEK-CLONE-
-# Samkiroko-NEWSWEEK
-# Samkiroko-NEWSWEEK
