@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple example steps:
 
 ## 🏠 [Homepage](https://github.com/Samkiroko/NEWSWEEK-CLONE)
 
-## ⭐️ See a live demo [here](https://wonderful-easley-7e626b.netlify.com/)
+## ⭐️ See a live demo [here](https://musing-nobel-c585a1.netlify.com/)
 
 ## 🧐 Validators:
 
